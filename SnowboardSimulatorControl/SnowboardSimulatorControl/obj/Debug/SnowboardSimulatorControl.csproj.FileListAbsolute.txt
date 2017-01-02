@@ -1,0 +1,57 @@
+D:\Documents\TELERIK ACADEMY\Scratches\SnowboardSimulatorControl\SnowboardSimulatorControl\bin\Debug\SnowboardSimulatorControl.exe.config
+D:\Documents\TELERIK ACADEMY\Scratches\SnowboardSimulatorControl\SnowboardSimulatorControl\bin\Debug\SnowboardSimulatorControl.exe
+D:\Documents\TELERIK ACADEMY\Scratches\SnowboardSimulatorControl\SnowboardSimulatorControl\bin\Debug\SnowboardSimulatorControl.pdb
+D:\Documents\TELERIK ACADEMY\Scratches\SnowboardSimulatorControl\SnowboardSimulatorControl\obj\Debug\SnowboardSimulatorControl.csprojResolveAssemblyReference.cache
+D:\Documents\TELERIK ACADEMY\Scratches\SnowboardSimulatorControl\SnowboardSimulatorControl\obj\Debug\SnowboardSimulatorControl.Form1.resources
+D:\Documents\TELERIK ACADEMY\Scratches\SnowboardSimulatorControl\SnowboardSimulatorControl\obj\Debug\SnowboardSimulatorControl.Properties.Resources.resources
+D:\Documents\TELERIK ACADEMY\Scratches\SnowboardSimulatorControl\SnowboardSimulatorControl\obj\Debug\SnowboardSimulatorControl.csproj.GenerateResource.Cache
+D:\Documents\TELERIK ACADEMY\Scratches\SnowboardSimulatorControl\SnowboardSimulatorControl\obj\Debug\SnowboardSimulatorControl.exe
+D:\Documents\TELERIK ACADEMY\Scratches\SnowboardSimulatorControl\SnowboardSimulatorControl\obj\Debug\SnowboardSimulatorControl.pdb
+C:\Users\VLADominator\Desktop\Snowboard-Simulator\SnowboardSimulatorControl\SnowboardSimulatorControl\bin\Debug\SnowboardSimulatorControl.exe.config
+C:\Users\VLADominator\Desktop\Snowboard-Simulator\SnowboardSimulatorControl\SnowboardSimulatorControl\obj\Debug\SnowboardSimulatorControl.exe
+C:\Users\VLADominator\Desktop\Snowboard-Simulator\SnowboardSimulatorControl\SnowboardSimulatorControl\obj\Debug\SnowboardSimulatorControl.pdb
+C:\Users\VLADominator\Desktop\Snowboard-Simulator\SnowboardSimulatorControl\SnowboardSimulatorControl\bin\Debug\SnowboardSimulatorControl.exe
+C:\Users\VLADominator\Desktop\Snowboard-Simulator\SnowboardSimulatorControl\SnowboardSimulatorControl\bin\Debug\SnowboardSimulatorControl.pdb
+C:\Users\VLADominator\Desktop\Snowboard-Simulator\SnowboardSimulatorControl\SnowboardSimulatorControl\obj\Debug\SnowboardSimulatorControl.csprojResolveAssemblyReference.cache
+C:\Users\VLADominator\Desktop\Snowboard-Simulator\SnowboardSimulatorControl\SnowboardSimulatorControl\obj\Debug\SnowboardSimulatorControl.Form1.resources
+C:\Users\VLADominator\Desktop\Snowboard-Simulator\SnowboardSimulatorControl\SnowboardSimulatorControl\obj\Debug\SnowboardSimulatorControl.Properties.Resources.resources
+C:\Users\VLADominator\Desktop\Snowboard-Simulator\SnowboardSimulatorControl\SnowboardSimulatorControl\obj\Debug\SnowboardSimulatorControl.csproj.GenerateResource.Cache
+C:\Users\VLADominator\Desktop\Snowboard-Simulator\Snowboard-Simulator_v2\Snowboard-Simulator\SnowboardSimulatorControl\SnowboardSimulatorControl\bin\Debug\SnowboardSimulatorControl.exe.config
+C:\Users\VLADominator\Desktop\Snowboard-Simulator\Snowboard-Simulator_v2\Snowboard-Simulator\SnowboardSimulatorControl\SnowboardSimulatorControl\obj\Debug\SnowboardSimulatorControl.exe
+C:\Users\VLADominator\Desktop\Snowboard-Simulator\Snowboard-Simulator_v2\Snowboard-Simulator\SnowboardSimulatorControl\SnowboardSimulatorControl\obj\Debug\SnowboardSimulatorControl.pdb
+C:\Users\VLADominator\Desktop\Snowboard-Simulator\Snowboard-Simulator_v2\Snowboard-Simulator\SnowboardSimulatorControl\SnowboardSimulatorControl\bin\Debug\SnowboardSimulatorControl.exe
+C:\Users\VLADominator\Desktop\Snowboard-Simulator\Snowboard-Simulator_v2\Snowboard-Simulator\SnowboardSimulatorControl\SnowboardSimulatorControl\bin\Debug\SnowboardSimulatorControl.pdb
+C:\Users\VLADominator\Desktop\Snowboard-Simulator\Snowboard-Simulator_v2\Snowboard-Simulator\SnowboardSimulatorControl\SnowboardSimulatorControl\obj\Debug\SnowboardSimulatorControl.csprojResolveAssemblyReference.cache
+C:\Users\VLADominator\Desktop\Snowboard-Simulator\Snowboard-Simulator_v2\Snowboard-Simulator\SnowboardSimulatorControl\SnowboardSimulatorControl\obj\Debug\SnowboardSimulatorControl.Properties.Resources.resources
+C:\Users\VLADominator\Desktop\Snowboard-Simulator\Snowboard-Simulator_v2\Snowboard-Simulator\SnowboardSimulatorControl\SnowboardSimulatorControl\obj\Debug\SnowboardSimulatorControl.csproj.GenerateResource.Cache
+C:\Users\VLADominator\Desktop\Snowboard-Simulator\Snowboard-Simulator_v2\Snowboard-Simulator\SnowboardSimulatorControl\SnowboardSimulatorControl\obj\Debug\SnowboardSimulatorControl.SimulatorForm.resources
+D:\Documents\TU-Sofiq\Diplomna Rabota\Final Version\SnowboardSimulatorControl\SnowboardSimulatorControl\bin\Debug\SnowboardSimulatorControl.exe.config
+D:\Documents\TU-Sofiq\Diplomna Rabota\Final Version\SnowboardSimulatorControl\SnowboardSimulatorControl\obj\Debug\SnowboardSimulatorControl.exe
+D:\Documents\TU-Sofiq\Diplomna Rabota\Final Version\SnowboardSimulatorControl\SnowboardSimulatorControl\obj\Debug\SnowboardSimulatorControl.pdb
+D:\Documents\TU-Sofiq\Diplomna Rabota\Final Version\SnowboardSimulatorControl\SnowboardSimulatorControl\bin\Debug\SnowboardSimulatorControl.exe
+D:\Documents\TU-Sofiq\Diplomna Rabota\Final Version\SnowboardSimulatorControl\SnowboardSimulatorControl\bin\Debug\SnowboardSimulatorControl.pdb
+D:\Documents\TU-Sofiq\Diplomna Rabota\Final Version\SnowboardSimulatorControl\SnowboardSimulatorControl\obj\Debug\SnowboardSimulatorControl.csprojResolveAssemblyReference.cache
+D:\Documents\TU-Sofiq\Diplomna Rabota\Final Version\SnowboardSimulatorControl\SnowboardSimulatorControl\obj\Debug\SnowboardSimulatorControl.SimulatorForm.resources
+D:\Documents\TU-Sofiq\Diplomna Rabota\Final Version\SnowboardSimulatorControl\SnowboardSimulatorControl\obj\Debug\SnowboardSimulatorControl.Properties.Resources.resources
+D:\Documents\TU-Sofiq\Diplomna Rabota\Final Version\SnowboardSimulatorControl\SnowboardSimulatorControl\obj\Debug\SnowboardSimulatorControl.csproj.GenerateResource.Cache
+C:\Users\VLADominator\Desktop\Snowboard Simulator - v.04.10.15\SnowboardSimulatorControl\SnowboardSimulatorControl\bin\Debug\SnowboardSimulatorControl.exe.config
+C:\Users\VLADominator\Desktop\Snowboard Simulator - v.04.10.15\SnowboardSimulatorControl\SnowboardSimulatorControl\obj\Debug\SnowboardSimulatorControl.exe
+C:\Users\VLADominator\Desktop\Snowboard Simulator - v.04.10.15\SnowboardSimulatorControl\SnowboardSimulatorControl\obj\Debug\SnowboardSimulatorControl.pdb
+C:\Users\VLADominator\Desktop\Snowboard Simulator - v.04.10.15\SnowboardSimulatorControl\SnowboardSimulatorControl\bin\Debug\SnowboardSimulatorControl.exe
+C:\Users\VLADominator\Desktop\Snowboard Simulator - v.04.10.15\SnowboardSimulatorControl\SnowboardSimulatorControl\bin\Debug\SnowboardSimulatorControl.pdb
+C:\Users\VLADominator\Desktop\Snowboard Simulator - v.04.10.15\SnowboardSimulatorControl\SnowboardSimulatorControl\obj\Debug\SnowboardSimulatorControl.csprojResolveAssemblyReference.cache
+C:\Users\VLADominator\Desktop\Snowboard Simulator - v.04.10.15\SnowboardSimulatorControl\SnowboardSimulatorControl\obj\Debug\SnowboardSimulatorControl.SimulatorForm.resources
+C:\Users\VLADominator\Desktop\Snowboard Simulator - v.04.10.15\SnowboardSimulatorControl\SnowboardSimulatorControl\obj\Debug\SnowboardSimulatorControl.Properties.Resources.resources
+C:\Users\VLADominator\Desktop\Snowboard Simulator - v.04.10.15\SnowboardSimulatorControl\SnowboardSimulatorControl\obj\Debug\SnowboardSimulatorControl.csproj.GenerateResource.Cache
+C:\Users\VLADominator\Desktop\Snowboard Simulator - v.20.10.15\SnowboardSimulatorControl\SnowboardSimulatorControl\bin\Debug\SnowboardSimulatorControl.exe.config
+C:\Users\VLADominator\Desktop\Snowboard Simulator - v.20.10.15\SnowboardSimulatorControl\SnowboardSimulatorControl\obj\Debug\SnowboardSimulatorControl.exe
+C:\Users\VLADominator\Desktop\Snowboard Simulator - v.20.10.15\SnowboardSimulatorControl\SnowboardSimulatorControl\obj\Debug\SnowboardSimulatorControl.pdb
+D:\Documents\TU-Sofiq\Diplomna Rabota\Snowboard Simulator - v.20.10.15\SnowboardSimulatorControl\SnowboardSimulatorControl\bin\Debug\SnowboardSimulatorControl.exe.config
+D:\Documents\TU-Sofiq\Diplomna Rabota\Snowboard Simulator - v.20.10.15\SnowboardSimulatorControl\SnowboardSimulatorControl\obj\Debug\SnowboardSimulatorControl.exe
+D:\Documents\TU-Sofiq\Diplomna Rabota\Snowboard Simulator - v.20.10.15\SnowboardSimulatorControl\SnowboardSimulatorControl\obj\Debug\SnowboardSimulatorControl.pdb
+D:\Documents\TU-Sofiq\Diplomna Rabota\Snowboard Simulator - v.20.10.15\SnowboardSimulatorControl\SnowboardSimulatorControl\bin\Debug\SnowboardSimulatorControl.exe
+D:\Documents\TU-Sofiq\Diplomna Rabota\Snowboard Simulator - v.20.10.15\SnowboardSimulatorControl\SnowboardSimulatorControl\bin\Debug\SnowboardSimulatorControl.pdb
+D:\Documents\TU-Sofiq\Diplomna Rabota\Snowboard Simulator - v.20.10.15\SnowboardSimulatorControl\SnowboardSimulatorControl\obj\Debug\SnowboardSimulatorControl.csprojResolveAssemblyReference.cache
+D:\Documents\TU-Sofiq\Diplomna Rabota\Snowboard Simulator - v.20.10.15\SnowboardSimulatorControl\SnowboardSimulatorControl\obj\Debug\SnowboardSimulatorControl.SimulatorForm.resources
+D:\Documents\TU-Sofiq\Diplomna Rabota\Snowboard Simulator - v.20.10.15\SnowboardSimulatorControl\SnowboardSimulatorControl\obj\Debug\SnowboardSimulatorControl.Properties.Resources.resources
+D:\Documents\TU-Sofiq\Diplomna Rabota\Snowboard Simulator - v.20.10.15\SnowboardSimulatorControl\SnowboardSimulatorControl\obj\Debug\SnowboardSimulatorControl.csproj.GenerateResource.Cache
